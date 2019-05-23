@@ -10,7 +10,7 @@
 	</head>
 
 	<body>
-		<button>Presentacion libro</button>
+		<button>ver texto demo</button>
 		<button>ver precios</button>
 	</body>
 </html>
